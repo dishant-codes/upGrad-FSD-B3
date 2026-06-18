@@ -35,6 +35,7 @@
 * Ranjeet Jadhav
 * Sakshi kere   : www.linkedin.com/in/sakshu-kere-545a57415
 * Pallavi Nikum :- www.linkedin.com/in/pallavi-nikum-b5b94b415
+* Abdul Rafe Farooqui
 
 
 LINKEDIN LINK
@@ -42,3 +43,5 @@ LINKEDIN LINK
 Ranjeet jadhav => https://www.linkedin.com/feed/
 Rahul :-https://www.linkedin.com/in/rahul-late-19281440a/
 Ranveer Mali:- https://www.linkedin.com/in/ranveer-mali-5735a6322/
+Abdul Rafe Farooqui:- https://www.linkedin.com/in/abdul-rafe-farooqui-2285483b2/
+
